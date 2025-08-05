@@ -28,7 +28,7 @@ A modern web application that generates beautiful color palettes based on your m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/moodtocolor-frontend.git
+   git clone https://github.com/Ossa-a/moodtocolor-frontend.git
    cd moodtocolor-frontend
    ```
 
